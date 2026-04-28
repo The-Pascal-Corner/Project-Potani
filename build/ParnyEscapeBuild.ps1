@@ -7,7 +7,7 @@ $currentPath = Get-Location
 
 # --- 1. CAU HINH DUONG DAN ---
 $ppsxDefault = "..\ParnyEscape.ppsx"
-$iconPath = "..\materials\images\Parny.ico"
+$iconPath = "..\materials\images\ParnyPart0.ico"
 $evbConsole = ".\enigmavbconsole.exe" 
 $chromePath = "C:\Program Files\Google\Chrome\Application\chrome.exe"
 $evbProjectFile = ".\ParnyEscape_config_enigma.evb"
