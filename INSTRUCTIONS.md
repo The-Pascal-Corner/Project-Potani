@@ -9,6 +9,3 @@ Bạn cần cài đặt một trong các ứng dụng sau để mở file `.ppsx
 
 ### 2. Tài nguyên bổ trợ
 * **[Google Fonts](https://fonts.google.com):** Game sử dụng các font chữ chuẩn. Nếu thấy chữ bị lệch, vui lòng kiểm tra và cài đặt font tương ứng.
-
----
-*Chúc bạn có những giây phút giải trí thú vị với Parny!*

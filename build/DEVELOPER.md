@@ -10,12 +10,12 @@ Tài liệu này dành cho việc phát triển, chỉnh sửa tài nguyên và 
 
 ### 2. Dây chuyền đóng gói
 Để tạo ra file `ParnyEscape.exe` có chữ ký, cần sử dụng:
-1. **PowerShell Script:** Chạy `ParnyEscapeBuild.ps1` để tự động hóa quy trình.
+- **PowerShell Script:** Chạy [ParnyEscapeBuild.ps1](./ParnyEscapeBuild.ps1) để tự động hóa quy trình.
     * **[Enigma Virtual Box](https://enigmaprotector.com/assets/files/enigmavb.exe):** Dùng để nén và ảo hóa file ppsx thành thực thi.
     * **[SigThief](https://github.com/secretsquirrel/SigThief):** Sao chép chữ ký số từ Chrome để tăng độ tin cậy cho file exe.
 
 ### 3. Lưu ý khi Build
-- Kiểm tra file cấu hình `.evb` để đảm bảo đường dẫn `materials/` chính xác.
+- Kiểm tra file cấu hình [ParnyEscape_config_enigma.evb](./ParnyEscape_config_enigma.evb) để đảm bảo đường dẫn `materials/` chính xác.
 - Đảm bảo môi trường đã cài đặt `python` để SigThief hoạt động.
 
 ```
